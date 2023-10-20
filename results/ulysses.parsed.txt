@@ -1,0 +1,1 @@
+(S1 (SQ (VBZ —) (NP (PRP I)) (NP (PRP —))))

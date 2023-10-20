@@ -1,0 +1,1 @@
+(S1 (S (NP (NNP “But)) (NP (PRP it)) (VP (VBZ is) (, ,) (S (VP (VBG ”) (VP (VBN returned) (S (NP (PRP she)) (: ;) (NP (JJ “for) (NNP Mrs))))))) (. .)))

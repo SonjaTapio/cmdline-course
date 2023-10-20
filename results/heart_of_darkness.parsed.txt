@@ -1,0 +1,1 @@
+(S1 (S (NP (NP (DT The) (NN Director)) (PP (IN of) (NP (NNPS Companies)))) (VP (VBD was) (NP (NP (PRP$ our) (NN captain)) (CC and) (NP (PRP$ our) (NN host)))) (. .)))

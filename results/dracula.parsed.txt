@@ -1,0 +1,1 @@
+(S1 (S (S (NP (JJ -LSB-_All) (NNS rights)) (VP (VBN reserved)) (. .)) (VP (VBZ _) (ADJP (JJ -RSB-)))))
