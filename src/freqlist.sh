@@ -2,8 +2,7 @@
 
 cat $1 |
 tr -s '[:space:]' '\n' |
-tr -d "[\-.,‘'’?!;:]" |
-tr '[A-Z]' '[a-z]' |
+tr -d '[:punct:]' |
 sort | 
 uniq -c | 
 sort -nr
