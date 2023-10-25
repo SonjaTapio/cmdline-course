@@ -25,12 +25,13 @@ This week's material had to do with **using text processing tools in UNIX, and r
 
 Commands introduced: file, dos2unix, iconv, tr, sort, uniq, egrep with -w, -f, csv and tsv formats, cut
 
-This is the point where the material started getting more challenging. If I weren't already learning about regular expressions in another course, I probably would have struggled more. The puzzles were fun though:grin: 
+This is the point where the material started getting more challenging. If I hadn't already been learning about regular expressions in another course, I probably would have struggled more. The puzzles were fun though:grin: 
 ## Week 4: Advanced Corpus Processing
-This week,   **combining simple commands into more complex command pipelines**
+This week,   **combining simple commands into more complex command pipelines** and **the _sed_ command**
 
 Commands introduced: sed with -n, -E, //d, //p, s//g
 
+This was the week that I struggled the most. Doing the quiz made me realize I had yet to fully internalized the contents of this or the previous week. Consequently, I had to google a lot and ended up trying many different solutions without fully understanding what I was doing half the time:sweat_smile: I also felt like I ran out of time towards the end, although that's mainly due to poor time management. Looking back though, I think this week was essential to my learning process, as going through the correct solutions and trying them for myself made me think about what I was doing wrong and really dig into the material. 
 ## Week 5: Scripting and Configuration Files
 ## Week 6: Installing and Running Programs
 ## Week 7: Version Control 
