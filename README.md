@@ -1,5 +1,5 @@
 # cmdline-course
-This is the final assingment for the course unit KIK-LG221 "Command Line Tools for Linguists" (5 cr). The aim of the course, among other things, was to  
+This repository is part of the course unit KIK-LG221 "Command Line Tools for Linguists" (5 cr). The aim of the course, among other things, was to  
 * teach the students how to use Unix command-line and regular expressions
 * introduce the students to basic processing of corpora 
 * create and host a webpage on GitHub Pages
